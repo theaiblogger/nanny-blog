@@ -1,0 +1,10 @@
+baseURL = "/"
+title = "Nanny Blog"
+theme = "PaperMod"
+
+[params]
+  homeInfoParams = { Title = "Welcome!", Content = "AI + a Nanny's Voice to Help New Parents Thrive." }
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
