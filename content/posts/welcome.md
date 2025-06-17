@@ -1,5 +1,5 @@
 ---
-title: "Hello"
+title: "Hello."
 date: 2025-06-16
 draft: false
 ---
