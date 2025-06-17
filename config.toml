@@ -3,6 +3,8 @@ title = "The AI Nanny"
 theme = "PaperMod"
 
 [params]
+[params.assets]
+  css = ["https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Quicksand:wght@400;600&display=swap"]
 
 [[menu.main]]
   name = "About"
