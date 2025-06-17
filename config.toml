@@ -8,6 +8,8 @@ theme = "PaperMod"
   keywords = ["AI nanny", "parenting blog", "baby care", "new parents", "child development", "artificial intelligence"]
   author = "The AI Nanny"
 
+  contentSingleStyle = "card"
+
   [params.homeInfoParams]
 
   [params.assets]
