@@ -2,7 +2,7 @@
 title: "The AI Nanny"
 ---
 
-Your AI-powered resource for confident parenting.
+Your resource for confident parenting.
 
 ## Who is The AI Nanny?
 
