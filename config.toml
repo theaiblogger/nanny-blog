@@ -9,8 +9,6 @@ theme = "PaperMod"
   author = "The AI Nanny"
 
   [params.homeInfoParams]
-    Title = "Hello."
-    Content = "Welcome to The AI Nanny — your AI-powered parenting companion. Designed to support new parents with clarity, consistency, and intelligent care."
 
   [params.assets]
     favicon = "/favicon.ico"
