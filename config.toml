@@ -1,3 +1,41 @@
+  GNU nano 8.3                                                                            config.toml                                                                             Modified
+ keywords = ["AI nanny", "parenting blog", "baby care", "new parents", "child development", "artificial intelligence"]
+  author = "The AI Nanny"
+
+  homeInfoParams = {
+    Title = "Hello.",
+    Content = "Welcome to The AI Nanny — your AI-powered parenting companion. Designed to support new parents with clarity, consistency, and intelligent care."
+  }
+
+  assets = { favicon = "/favicon.ico" }
+  images = ["/og-image.jpg"]
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Help          ^O Write Out     ^F Where Is      ^K Cut           ^T Execute       ^C Location      M-U Undo         M-A Set Mark     M-] To Bracket   M-B Previous     ◂ Back
+^X Exit          ^R Read File     ^\ Replace       ^U Paste         ^J Justify       ^/ Go To Line    M-E Redo         M-6 Copy         ^B Where Was     M-F Next         ▸ Forward
 baseURL = "https://theainanny.netlify.app/"
 languageCode = "en-us"
 title = "The AI Nanny"
@@ -22,4 +60,3 @@ theme = "PaperMod"
 [[menu.main]]
   name = "About"
   url = "/about/"
-
