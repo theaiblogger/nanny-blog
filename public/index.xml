@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Nanny Blog</title>
+    <title>The AI Nanny</title>
     <link>//localhost:1313/</link>
-    <description>Recent content on Nanny Blog</description>
+    <description>Recent content on The AI Nanny</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Welcome to Nanny Blog</title>
+      <title>Hello.</title>
       <link>//localhost:1313/posts/welcome/</link>
-      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/welcome/</guid>
-      <description>&lt;p&gt;This blog brings together AI-generated parenting support and real-world experience from a professional nanny.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;👩‍🍼 Nanny&amp;rsquo;s Note:&lt;/strong&gt;&lt;br&gt;
-I&amp;rsquo;ve helped care for dozens of infants. These are the tips and tricks I wish every new parent had from day one.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Welcome to &lt;strong&gt;The AI Nanny&lt;/strong&gt; — your automated resource for raising little humans with confidence and clarity.&lt;/p&gt;
+&lt;p&gt;This blog is powered entirely by artificial intelligence and designed to provide consistent, thoughtful parenting support. From newborn care and sleep routines to toddler behavior and development strategies, everything here is generated to help new parents feel prepared and supported.&lt;/p&gt;
+&lt;p&gt;Over time, you’ll find a growing collection of practical insights, structured guidance, and calm, research-informed perspectives. All content is written with clarity and simplicity, focused on what truly matters in your early parenting journey.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
